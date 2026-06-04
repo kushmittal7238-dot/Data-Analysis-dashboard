@@ -75,3 +75,5 @@ Monitor peak-volume days to prevent increased waiting times.
 Continue tracking department referral patterns for staffing optimization.
 
 This dashboard is a strong example of how healthcare analytics can be used to improve patient care, operational efficiency, and decision-making in emergency departments.
+
+
